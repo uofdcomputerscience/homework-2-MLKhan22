@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SecondProject
 //
-//  Created by Russell Mirabelli on 9/12/19.
-//  Copyright © 2019 Russell Mirabelli. All rights reserved.
+//  Created by Minh Ly on 9/12/19.
+//  Copyright © 2019 Minh Ly. All rights reserved.
 //
 
 import UIKit
